@@ -57,6 +57,7 @@ This module is developed under Apache 2.0 license, and can be used for
 open and proprietary projects.
 
 Copyright 2012-2013 Lev Shamardin
+randomthingsandstuff forky fork.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you
 may not use this file or any other part of this project except in
